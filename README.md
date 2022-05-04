@@ -1,7 +1,7 @@
 # git
 
 
-```cd ~/Documents/abc``` 이런식으로 파일 들어갈 폴더 만든 후 <span style="color:yellow">git init</span>실행
+```cd ~/Documents/abc``` 이런식으로 파일 들어갈 폴더 만든 후 <span style="color:yellow">git init</span> 실행
 
 바로 ```git status```실행하면 
 ```
