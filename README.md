@@ -10,3 +10,4 @@ No commits yet
 nothing to commit (create/copy files and use "git add" to track) 
 ```
 과 같은 오류가 나옴 👉 커밋 내용이 없다는 뜻
+<span style="color:yellow">노란 글씨입니다.</span>
